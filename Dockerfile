@@ -1,5 +1,5 @@
 # 使用 Java 8 作为基础镜像
-FROM openjdk:8-jdk-alpine
+FROM java:8
 
 # 设置维护者信息
 
